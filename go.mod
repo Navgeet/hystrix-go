@@ -1,4 +1,4 @@
-module github.com/kargakis/hystrix-go
+module github.com/afex/hystrix-go
 
 go 1.13
 
